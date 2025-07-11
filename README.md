@@ -33,15 +33,3 @@ This project is a real-time **Weather Monitoring Dashboard** built using a Weath
 ├── Weather\_Dashboard.pbix
 ├── Weather\_Dashboard.png
 └── README.md
-
-```
-
----
-
-Would you like me to:
-- Generate a **cover image for your GitHub repo**?
-- Help upload your `.pbix` and `README.md` to your GitHub now?
-- Write your next blog post idea (e.g., Power BI vs Tableau)?
-
-Let me know and I’ll support step-by-step!
-```
